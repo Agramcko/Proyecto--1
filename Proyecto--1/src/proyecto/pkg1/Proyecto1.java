@@ -8,7 +8,7 @@ package proyecto.pkg1;
  *
  * @author gramc
  */
-public class Main {
+public class Proyecto1 {
 
     /**
      * @param args the command line arguments
